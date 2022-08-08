@@ -1,0 +1,21 @@
+.text-field {
+    margin: 24px 0;
+}
+
+.text-field label {
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.text-field input {
+    max-width: 100%;
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.08);
+    width: 100%;
+    border: none;
+    box-sizing: border-box; /*box-sizing, utilizado para se adequar as mudanças que fizemos, e que não fica 100% correto na página*/
+    font-size: 20px;
+    padding: 24px;
+}
