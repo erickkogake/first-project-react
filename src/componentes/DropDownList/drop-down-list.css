@@ -1,15 +1,15 @@
-.text-field {
+.list-team {
     margin: 24px 0;
 }
 
-.text-field label {
+.list-team label {
     font-size: 17px;
     font-weight: bold;
     display: block;
     margin-bottom: 8px;
 }
 
-.text-field input {
+.list-team select {
     max-width: 100%;
     background-color: #FFF;
     box-shadow: 10px 10px 30px rgba(0,0,0,0.08);
