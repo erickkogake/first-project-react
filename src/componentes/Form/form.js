@@ -1,4 +1,4 @@
-import TextField from "../textField"
+import TextField from "../TextField"
 import './Form.css'
 import DropDownList from "../DropDownList"
 import Button from "../Button"
